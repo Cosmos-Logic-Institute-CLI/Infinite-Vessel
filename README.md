@@ -16,7 +16,7 @@ The **Infinite Soma (ISA)** architecture is not a conventional robotic manufactu
 
 ---
 
-### 2. Fundamental Hardware Trinity
+### 2. The Biomimetic Quadrilogy
 
 #### 2.1 Muscle: Helix-Matrix Actuators (HMA)
 
@@ -48,6 +48,11 @@ The **Infinite Soma (ISA)** architecture is not a conventional robotic manufactu
 * **Guided Groove System**: The skeletal surface is patterned with grooves following bio-mechanical paths to constrain the movement trajectories of HMA muscle bundles.
 * **Embedded Functional Layers**: Inner groove walls are coated with **Phase Change Materials (PCM)** for instantaneous thermal buffering; integrated high-density superconductive coils for electromagnetic induction.
 * **Hollow Channels**: The skeletal interior serves as the primary circulation conduit for FEVF blood, providing both hydraulic transmission and cooling functions.
+
+#### 2.4 Pre-programmed Reflexive Neuro-Mechanics
+
+**"Nervous System: Pre-programmed Reflexive Neuro-Mechanics"**
+Muscles engineered via pre-programming technology possess diverse, built-in conditional reflexes. For instance, the **non-linear stroke ratios** and **adaptive damping** are physically encoded within the limb's locomotion mechanics. The system distinguishes between **fast-twitch muscle groups** for rapid bursts and **slow-twitch muscle groups** for sustained support. This structural pre-programming allows the robot to achieve a natural gait and "physics-level" robustness without reliance on centralized control, enabling instantaneous response to environmental perturbations.
 
 ---
 
@@ -266,7 +271,7 @@ After the weight is removed, the system utilizes the captured potential energy, 
 
 ---
 
-### 2. 基础硬件三要素 (Fundamental Hardware Trinity)
+### 2. 仿生架构四位一体 (The Biomimetic Quadrilogy)
 
 #### 2.1 肌肉：螺旋矩阵致动器 (HMA)
 
@@ -296,6 +301,11 @@ After the weight is removed, the system utilizes the captured potential energy, 
 * **导向凹槽系统**：骨骼表面布满符合生物力学路径的凹槽，用于约束HMA肌肉束的运动轨迹。
 * **内嵌功能层**：凹槽内壁涂覆**相变吸能材料 (PCM)** 用于瞬时热缓冲；集成高密度超导线圈用于电磁感应。
 * **中空流道**：骨骼内部为FEVF血液的主循环管路，兼具液压传动与散热功能。
+
+#### 2.4 预编程反射神经：物理逻辑固化技术
+
+**“神经系统：预编程反射神经”**
+通过预编程技术定义的物理肌肉，内置了多样化的条件反射逻辑。例如，在腿部行走过程中，通过特定的结构设计实现了**非线性行程比**与**自适应阻尼**。系统区分了用于瞬间爆发的**快反应肌肉群**与用于持久支撑的**慢反应肌肉群**。这种基于物理结构的预设，使得机器人无需复杂的中央计算即可产生极为自然的行走感，并在面对地形突变时展现出物理级的鲁棒性。
 
 ---
 
