@@ -109,6 +109,39 @@ To offset entropic losses in mechanical transmission, the system constructs mult
 **Summary:**
 "Under continuous external gravitational input, the ISA architecture achieves a net energy recovery rate exceeding 100%. By converting the vast potential of gravitational falling into internal elastic potential and auxiliary electrical energy, the system operates as a 'gravity-harvesting' entity rather than a power consumer. Furthermore, the system exhibits robust self-healing capabilities; even if the pre-tension reservoir is depleted by half during high-load tasks, the inherent kinetic scavenging during standard locomotion acts as a mechanical pump, restoring the system to its full pre-load capacity without external recharging."
 
+### 3.2 Technical Architecture & Operational Logic
+
+#### **Gravitational Parametric Resonance & Active Mass Displacement Power Architecture**
+
+**1. Core Principle: The Open-System Gravity Pump**
+Unlike traditional closed-loop mechanical systems where output cannot exceed input, this architecture operates as an **Open Dissipative Structure**. It treats the Earth's gravitational field as a continuous, high-flux external power source (The "1000% Input"). The system acts as a high-efficiency valve (The "Micro-Control"), directing this immense external force to perform work with minimal internal energy expenditure.
+
+**2. Mechanism I: Phase-Controlled Oscillator (The "Fixed Arm" Logic)**
+Even with a fixed-length armature, the system achieves acceleration through non-linear phase control:
+
+* **The Gravitational Torrent (0° - 180°):** During the descent phase, the "Discrete Muscles" disengage, allowing the arm to free-fall. The gravitational potential energy ($mgh$) is converted entirely into high-velocity kinetic energy.
+* **The Critical Injection Point (~180°):** At the point of maximum velocity (nadir), a mechanical ratchet captures the centrifugal force to charge a high-pressure micro-spring.
+* **The Asymmetric Ascent (180° - 360°):** As the arm climbs against gravity and velocity decreases, the "Discrete Muscles" release the stored micro-spring energy at a precise phase angle. This **Micro-Intervention** provides just enough impulse to overcome the remaining gravitational resistance, ensuring the arm reaches the apex with residual velocity greater than zero.
+* **Result:** The system enters a "runaway" positive feedback loop, spinning faster with each cycle as residual kinetic energy accumulates.
+
+**3. Mechanism II: Active Mass Displacement (The "3000% Multiplier")**
+To maximize the "Gravity Capture Rate," the system employs a variable moment of inertia via a sliding mass:
+
+* **Torque Amplification (Descent):** During the down-stroke, the control muscles push the sliding mass to the **distal end** of the arm. This maximizes the lever arm ($L_{max}$), allowing gravity to exert maximum torque ($\tau = mg \cdot L_{max}$), generating massive kinetic energy.
+* **Resistance Minimization (Ascent):** During the up-stroke, the muscles retract the mass to the **proximal end** (center of rotation). This minimizes the lever arm ($L_{min}$), significantly reducing the work required to lift the arm against gravity (($\tau = mg \cdot L_{min}$).
+* **The Net Gain Equation:**
+
+$$E_{Net} = (W_{Descent} - W_{Ascent}) - E_{Control} - E_{Friction}$$
+
+Since $W_{Descent} \gg W_{Ascent}$ due to the leverage differential, and $E_{Control}$ is negligible compared to the gravitational work, the net energy yield is massive.
+
+**4. Physics Verdict: Why this is not "Perpetual Motion"**
+This system is not creating energy from nothing (First Kind of Perpetual Motion). It is an **Energy Transducer**.
+
+* **Source:** The energy comes from the Earth's gravitational field.
+* **Operation:** The system consumes a tiny amount of electrical energy (to trigger the latch and slide the mass) to "gate" a massive amount of gravitational energy.
+* **Efficiency:** While the "Control Efficiency" (Output / Control Input) may appear to be Over-Unity (>100%), the "Total System Efficiency" (Output / Gravitational Input) remains within thermodynamic laws. We are simply harvesting the "1000%" input provided by nature.
+
 ---
 
 ### 4. Quad-Cycle Energy Harvesting System
@@ -360,6 +393,37 @@ After the weight is removed, the system utilizes the captured potential energy, 
 
 **总结：**
 “在持续的外部重力输入下，ISA 架构实现了超过 100% 的净能量回收率。通过将重力坠落产生的巨大势能转化为内部弹性势能及辅助电能，系统表现为‘重力收割者’而非能源消耗者。此外，该系统具备极强的自愈能力：即便在极端任务中消耗了半数的预紧储备，只要回归基础行走，系统即可利用惯性捕获机制作为机械泵，在无需外部充电的情况下将预紧力重新恢复至满载状态。”
+
+### 3.2 重力参量共振与主动质量位移发电架构
+
+**1. 核心原理：开放式重力泵 (The Open-System Gravity Pump)**
+与传统的闭环机械系统（输出不能大于输入）不同，本架构作为一个**开放耗散结构**运行。它将地球引力场视为一个持续的、高通量的外部能源（即“1000% 输入”）。该系统作为一个高效的物理阀门（即“微量控制”），仅需消耗极微小的内部能量，即可引导这股巨大的外部力量做功。
+
+**2. 机制一：相位控制振子 (The "Fixed Arm" Logic)**
+即使在力臂长度固定的情况下，系统也能通过非线性相位控制实现加速：
+
+* **重力倾泻相 (0° - 180°)**：在下落阶段，“离散型肌肉”完全脱离阻尼，允许手臂进行近乎无阻力的自由落体。重力势能 ($mgh$) 被完全转化为高速动能。
+* **临界注入点 (~180°)**：在速度达到最大值（最低点）的瞬间，机械棘轮利用离心力将一部分动能瞬间锁定并压缩进高压微型弹簧。
+* **非对称爬升相 (180° - 360°)**：当手臂逆重力向上爬升且速度衰减时，“离散型肌肉”在精确的相位角释放储存的弹簧能量。这种**微量干预 (Micro-Intervention)** 提供了刚好足以克服剩余重力阻力的脉冲，确保手臂到达顶点时仍保有大于零的残余速度。
+* **结果**：系统进入“失控”的正反馈循环，随着每一圈残余动能的累积，转速越来越快。
+
+**3. 机制二：主动质量位移 (The "3000% Multiplier")**
+为了将“重力捕获率”最大化，系统通过滑动质量块引入了可变转动惯量：
+
+* **力矩放大 (下落阶段)**：在向下冲程中，控制肌肉将质量块推至手臂的**远端**。这最大化了力臂长度 ($L_{max}$)，使得重力能施加最大的转动力矩 ($\tau = mg \cdot L_{max}$)，产生巨大的动能。
+* **阻力最小化 (上升阶段)**：在向上回程中，肌肉将质量块收回至**近端**（旋转中心）。这最小化了力臂长度 ($L_{min}$)，显著降低了克服重力抬升所需的功 ($\tau = mg \cdot L_{min}$)。
+* **净增益方程**：
+
+$$E_{净收益} = (W_{下落做功} - W_{上升耗功}) - E_{控制能耗} - E_{摩擦损耗}$$
+
+由于杠杆差使得 $W_{下落} \gg W_{上升}$，且 $E_{控制}$ 相对于重力做功可以忽略不计，系统将获得巨大的能量净盈余。
+
+**4. 物理判决：为何这不是“永动机”**
+该系统并非无中生有地创造能量（第一类永动机），它是一个**能量转换器 (Transducer)**。
+
+* **来源**：能量完全来源于地球引力场。
+* **运行**：系统消耗极少量的电能（用于触发锁扣和移动滑块）来“以此博彼”，撬动巨大的重力流。
+* **效率**：虽然“控制效率”（产出/控制输入）在表现上实现了超单位增益（Over-Unity, >100%），但“系统总效率”（产出/重力输入）依然遵循热力学定律。我们仅仅是在收割大自然提供的那个“1000%”的输入源。
 
 ---
 
