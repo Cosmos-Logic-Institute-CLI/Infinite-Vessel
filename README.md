@@ -186,37 +186,45 @@ The **geometric limit positions** of the joint (e.g., the physical angle of full
 * **Bio-Compatibility:** It mimics the antagonistic working mode of biological muscles (which can only contract, not push), achieving bidirectional dynamic balance through a "dual-spring + single-link" configuration.
 * **Extreme Low Cost:** The spring-and-cable combination is lighter and cheaper than pneumatic cylinders, possessing inherent **Strain Hardening** characteristics for natural feedback.
 
-### 3.5 Gravity Arbitrage Exoskeleton Framework
+### 3.5 Gravity Arbitrage & Structural Hydraulic Exoskeleton Framework
 
-**Overview**
-If the physics and logic align, the system functions. This framework aims to "harvest" the gravitational field through structural intelligence, transforming human gait from an energy-consuming process into a self-sustaining mechanical cycle.
+**I. Core Philosophy: The Logic of Imbalance**
 
-**1. Core Dynamics: Transfer of Force Imbalance**
+If the physics and logic align, the system functions. This framework does not "mimic" human movement with electronics; it "harvests" the gravitational field. By treating gravity not as a burden but as a free fuel, we transform the human gait from an energy-consuming process into a self-sustaining mechanical cycle via the **Transfer of Force Imbalance**.
 
-The system does not rely on external energy to perform work. Instead, it creates a force imbalance by altering mechanical constraints. It captures the "surplus energy" from the center-of-gravity drop during walking, transferring this energy between gait phases through programmed structural deformation.
+**II. Topology: Anterior-Posterior Antagonistic Placement**
 
-**2. Actuator: Non-linear Elastic Tension Elements**
+Conventional commercial exoskeletons fail by placing actuators on the side. This framework utilizes an **Antagonistic Anterior-Posterior Layout**:
 
-The system employs elastic actuators (such as twisted fibers, springs, or advanced polymers) with non-linear stiffness for physical-level self-stabilization. **Preload is the sole parameter**, allowing adaptation to different body weights and terrains through simple manual tensioning.
+* **Zero-Loss Vectoring**: Aligning the force vector directly with the direction of movement, eliminating the 20%+ energy waste caused by radial friction in side-mounted designs.
+* **Gravitational Leverage**: Harvesting energy directly along the maximum tangential direction of gravity’s work during the falling phase of the gait.
 
-**3. Control Logic: Geometric Dead-Center & Segmented Unlocking**
+**III. Actuator: High-Density Braided "Muscle" & Structural Hydraulics**
 
-Eschewing electronic sensors, the system utilizes the "dead-center" logic of linkage structures to lock high-magnitude tension. Unlocking requires only a minimal displacement trigger at specific gait angles, enabling zero-power energy release. The structure itself is the algorithm.
+Forget heavy hydraulic cylinders. The future lies in **Advanced Braided Fibers**:
 
-**4. Topology: Anterior-Posterior Antagonistic Placement**
+* **Non-linear Elasticity**: Braided structures (e.g., Twisted String Actuators) provide physical-level self-stabilization and power amplification that mimics biological muscle.
+* **Structural Hydraulics**: By braiding fibers into ultra-dense solid or airtight hollow cylinders, the material achieves "Phase Transition." Under tension, the braided mesh generates internal volumetric pressure, acting as a **Fluidic Envelope**.
+* **Bone-Muscle Coupling**: Using the human bone as a "fixed piston" and the lubricated braided layer as a "dynamic cylinder," the system creates a micro-hydraulic interface that distributes massive loads evenly across the limb.
 
-Unlike side-mounted auxiliary designs, this framework employs an antagonistic anterior-posterior layout. This allows energy harvesting and feedback directly along the maximum tangential direction of gravity's work, achieving true propulsion.
+**IV. Control: Geometric Dead-Center Logic**
 
-**5. Modular Protection: Soft-Hard Switching Mode**
+Eschewing fragile sensors, the system utilizes the **Dead-Center Logic** of linkage structures to lock high-magnitude tension. Unlocking is triggered by minimal displacement at specific gait angles, achieving zero-power energy release management. The structure itself is the algorithm.
 
-* **Soft-Suit Mode**: Worn as a lightweight "energy mesh," utilizing the human skeleton as the compression member.
-* **Exoskeleton Mode**: Rigid struts (e.g., carbon fiber) can be inserted via quick-release mounts to create a "force bypass," physically isolating biological joints from mechanical stress during high-load operations.
+**V. Modular Protection: The Stress Bypass**
 
-> **"Gravity is the free fuel; logic is the conversion pump. The material is the variable; the structure is the constant."**
+* **Soft-Suit Mode**: A lightweight "energy mesh" utilizing the human skeleton as the compression member.
+* **Exoskeleton Mode**: Rigid struts (e.g., Carbon Fiber) are inserted via quick-release mounts to create a **Force Bypass**, physically isolating biological joints from mechanical stress during high-load operations.
+
+**Developer’s Note: The End of "Machines"**
+
+> "Stop trying to build a machine; start building a muscle.
+> The industry is trapped in the 'Hydraulic Cylinder' era—stiff, side-mounted, and inefficient. They treat gravity as an enemy to be fought with batteries. We treat gravity as a tide to be harnessed with logic.
+> When you realize that high-density braiding can simulate hydraulic support, and that the human bone is the perfect piston, you no longer need heavy iron. This framework is a weapon of logic—if you can see the force, you can own the energy."
 
 ---
 
-### 4. Quad-Cycle Energy Harvesting System
+### 4. Five-Fold Integrated Cycle System
 
 Designed for extreme energy utilization and environmental "harvesting," these sub-systems enable seamless energy conversion:
 
@@ -224,15 +232,19 @@ Designed for extreme energy utilization and environmental "harvesting," these su
 * **Logic**: The internal "force bank" of the system. When one side performs work, any unconsumed kinetic energy is transmitted through linkages to the opposing muscle or central storage bundles—achieving "force transfer" or "kinetic deposit."
 * **Equilibrium**: During long periods of stasis, specialized balancing muscle fibers redistribute excess pre-tension across the entire frame.
 
-2. **Thermodynamic Loop**:
+2. **Fluidic Loop**
+* **Logic**:Utilizes the **incompressibility of fluids** to establish a unified pressure-conducting circuit. It enables near-instantaneous force transmission and global energy redistribution across any structural network, bypassing the mechanical and signal latency of centralized control systems.
+* **Mechanism**:The fluid acts as a "dynamic force bridge" within a closed-loop system. While facilitating **Balanced Antagonism** between primary opposing components, the architecture allows for the redirection of peak pressure to any auxiliary reservoir or actuator within the network. This provides structural protection by shunting localized stress across the entire system’s capacity.
+
+3. **Thermodynamic Loop**:
 * **Logic**: Exploits the exothermic (release) and endothermic (absorption) properties of SMA materials during stretching and contraction.
 * **Mechanism**: FEVF blood instantly transports waste heat from working muscles to those undergoing endothermic contraction, creating a **"Self-heat pump"** effect, drastically reducing electrical heating demands.
 
-3. **Electromagnetic Loop**:
+4. **Electromagnetic Loop**:
 * **Logic**: Any form of mechanical motion (muscle contraction, blood flow, skeletal deformation) drives the magnetic fluid or cuts magnetic lines.
 * **Mechanism**: Induced currents are not consumed immediately but flow back into super-capacitor arrays for the next trigger signal.
 
-4. **Environmental Gain Loop**:
+5. **Environmental Gain Loop**:
 **Core Principle**: This is an **open energy capture platform**, not a closed system.
 * **Positive use of "Negative Work"**: Traditional robots consume energy while braking, descending, or maintaining posture. In these stages, the ISA architecture fully recovers **gravitational potential energy** and **external impact kinetic energy** via back-EMF and mechanical stretching.
 * **External Input**: In rugged terrain or hostile environments, every ground reaction force or object collision is treated as an "energy input," converted into electricity or elastic potential via high-damping systems. Thus, in high-dynamic environments, recovered energy > trigger control energy, allowing the system to **grow stronger through movement**.
@@ -540,37 +552,45 @@ $$E_{净收益} = (W_{下落做功} - W_{上升耗功}) - E_{控制能耗} - E_{
 * **生物兼容性：** 模拟生物肌肉（只能收缩，不能推伸）的拮抗工作模式，通过“一对弹簧+一根连杆”实现双向动态平衡。
 * **极低成本：** 弹簧与绳索的组合比气缸更轻、更廉价，且具备天然的**应变强化 (Strain Hardening)** 特性。
 
-### 3.5 重力套利外骨骼框架
+### 3.5 重力套利与结构液压外骨骼框架
 
-**概述**
-物理和逻辑通了，它就是通的。本框架的目的不是用电子设备去“模仿”人体动作，而是通过结构智慧去“收割”引力场。它将人类的行走过程从耗能行为转变为自循环的机械过程。
+**一、 核心哲学：不平衡逻辑**
 
-**1. 核心动力学：力的不平衡转移**
+物理和逻辑通了，它就是通的。本框架的目的不是用电子设备去“模仿”人体动作，而是通过结构智慧去“收割”引力场。通过**“力的不平衡转移”**，我们将行走从耗能行为转变为自循环的机械过程。
 
-系统不依赖外部能源做功，而是通过改变机械约束制造力的不平衡。它捕捉人行走时重心跌落产生的“过剩能量”，并通过结构形变将能量在步态相位之间进行转移。
+**二、 拓扑布局：前后拮抗布置**
 
-**2. 执行机构：非线性弹性张力元件**
+传统商用外骨骼将驱动器放在侧面是力学上的平庸。本框架采用**前后拮抗布局**：
 
-系统采用具有非线性刚度的弹性执行器（如扭转纤维、弹簧或其他高分子材料）实现物理级的自稳定。**预紧力是系统的唯一参数**，通过简单的手动调节即可适配不同的体重和地形。
+* **零损耗矢量**：使拉力矢量与运动方向完全重合，消除了侧向设计中因径向摩擦导致的 20% 以上的能量浪费。
+* **重力杠杆**：在重心跌落的相位，直接沿重力做功的最大切线方向进行能量提取。
 
-**3. 控制逻辑：几何死点与分段解锁**
+**三、 执行机构：高密度编织肌肉与结构液压**
 
-摒弃电子传感器，利用连杆结构的“死点”逻辑锁定高强度张力。解锁仅需极小的位移触发（在特定步态角度），实现零功耗的能量释放管理。结构本身即是算法。
+抛弃笨重的液压缸。未来属于**高级编织纤维**：
 
-**4. 拓扑结构：前后拮抗布置**
+* **非线性弹性**：通过编织结构（如扭转绳索执行器）实现模仿生物肌肉的自稳定与功率放大。
+* **结构液压化**：将纤维编织成极高密度的实心或气密空心圆柱，使其在受力时产生体积排斥效应，形成**“流体包络”**。
+* **骨肉耦合**：以人骨为“固定活塞”，以润滑的编织层为“动态缸体”，在微观尺度上实现液压支撑，将巨大载荷均匀分布，彻底解决磨腿问题。
 
-区别于普通商用产品的侧面辅助设计，本框架采用一前一后的拮抗布置。这使得能量收割与回馈直接处于重力做功的最大切线方向上，实现真正的动力推进而非单纯的支撑。
+**四、 控制逻辑：几何死点与分段解锁**
 
-**5. 模块化保护：软硬切换模式**
+摒弃脆弱的电子传感器，利用连杆结构的**“死点”逻辑**锁定高强度张力。仅需极小的位移触发即可实现零功耗的能量管理。结构本身即是算法。
 
-* **柔性衣模式**：作为轻量化“能量网”穿在衣服内，利用人体骨骼作为压缩支撑杆。
-* **外骨骼模式**：通过快拆卡位机构接入刚性支柱（如碳纤维杆），形成“力的旁路”，在高负载运转时物理隔离生物关节的机械磨损。
+**五、 模块化保护：应力旁路**
 
-> **“重力是免费的油，逻辑是转换的泵。材料是变量，结构是永恒。”**
+* **柔性衣模式**：作为轻量化“能量网”，利用人体骨骼作为压缩支撑杆。
+* **外骨骼模式**：通过快拆机构接入刚性支柱（如碳纤维杆），形成**“力的旁路”**，在高负载运转时物理隔离生物关节的机械磨损。
+
+**开发者寄语：机器时代的终结**
+
+> “不要去造机器，去造肌肉。
+> 整个行业都困在‘液压杆’时代——生硬、侧挂、低效。他们把重力当成敌人，试图用电池去对抗；我们把重力当成潮汐，利用逻辑去收割。
+> 当你意识到高密度编织可以模拟液压支撑，意识到人骨就是最完美的活塞时，你就不再需要沉重的钢铁。这套框架是一把逻辑的武器——如果你能看见力的流动，你就能掌握能量的本质。”
 
 ---
 
-### 4. 四重全循环系统 (Quad-Cycle Energy Harvesting System)
+### 4. 五重全循环系统 (Five-Fold Integrated Cycle System)
 
 本系统旨在实现能量的极致利用与环境掠夺，各循环子系统间可无缝转化：
 
@@ -578,15 +598,19 @@ $$E_{净收益} = (W_{下落做功} - W_{上升耗功}) - E_{控制能耗} - E_{
 * **逻辑**：系统内部力的“银行”。当一侧肌肉释放力做功时，若未完全消耗，剩余动能通过连杆机构传输至对侧肌肉或中央储能肌束，实现“左力右移”或“动能存入”。
 * **平衡**：长时间静止时，通过专用平衡肌束微调，将多余预紧力在全身骨架间重新分配。
 
-2. **热力学循环 (Thermodynamic Loop)**：
+2. **流体循环 (Fluidic Loop)**
+* **逻辑**：利用**流体不可压缩特性**，建立统一的传压回路。这实现了跨结构网络的瞬时力传导与全局能量再分配，规避了集中式控制系统固有的机械与信号延迟。
+* **机制**：流体在闭环系统中充当“动态传力桥梁”。在维持主要对立组件间**拮抗平衡**的同时，该架构允许将峰值压力重定向至网络中的任何辅助储能单元或执行器。通过将局部应力分流至整个系统的承载空间，实现对关键节点的结构保护。
+
+3. **热力学循环 (Thermodynamic Loop)**：
 * **逻辑**：利用SMA材料拉伸放热（放能）与收缩吸热（需能）的特性。
 * **机制**：FEVF血液将做功肌肉产生的废热（及环境热量），瞬间搬运至正在吸热收缩的肌肉处，实现**“自体热泵”**效应，大幅降低电加热需求。
 
-3. **电磁循环 (Electromagnetic Loop)**：
+4. **电磁循环 (Electromagnetic Loop)**：
 * **逻辑**：任何形式的机械运动（肌肉收缩、血液奔流、骨骼微形变）都会驱动磁流体或切割磁感线。
 * **机制**：产生的感应电流不直接消耗，而是回流至超级电容阵列，用于下一次肌肉触发的信号电流。
 
-4. **环境增益循环 (Environmental Gain Loop)**：
+5. **环境增益循环 (Environmental Gain Loop)**：
 **核心原理**：本系统并非封闭系统，而是一个**开放式能量捕获平台**。
 * **负功正用**：传统机器人在刹车、下坡、甚至维持站立时都在消耗能量（做负功）。ISA架构在这些阶段利用反向电动势和机械拉伸，将**重力势能**和**外部冲击动能**全额回收。
 * **外部输入**：在崎岖地形或对抗性环境中，每一次地面的反作用力、每一次外部物体的碰撞，都被视为“能量输入”，经由高阻尼系统转化为电能或弹性势能。因此，在高动态环境下，回收能量 > 触发控制能量，实现**越动越强**。
