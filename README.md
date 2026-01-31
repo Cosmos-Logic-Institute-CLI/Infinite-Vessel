@@ -2,6 +2,9 @@
 
 *The Ultimate Blueprint for Cyborg Evolution.*
 
+![Screenshot_20260131_193428](https://github.com/user-attachments/assets/e6759b68-0786-48ce-97f7-e83877969440)
+
+
 **Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [Read in English](#infinite-precision) | [跳转到中文](#无限身躯)
