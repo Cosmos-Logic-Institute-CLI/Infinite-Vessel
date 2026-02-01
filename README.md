@@ -57,6 +57,18 @@ The **Infinite Soma (ISA)** architecture is not a conventional robotic manufactu
 **"Nervous System: Pre-programmed Reflexive Neuro-Mechanics"**
 Muscles engineered via pre-programming technology possess diverse, built-in conditional reflexes. For instance, the **non-linear stroke ratios** and **adaptive damping** are physically encoded within the limb's locomotion mechanics. The system distinguishes between **fast-twitch muscle groups** for rapid bursts and **slow-twitch muscle groups** for sustained support. This structural pre-programming allows the robot to achieve a natural gait and "physics-level" robustness without reliance on centralized control, enabling instantaneous response to environmental perturbations.
 
+#### 2.5 Dynamic Sensing & Proprioceptive System
+
+* **Core Logic**:
+The architecture transcends traditional discrete sensor arrays by integrating **Helical Matrix Actuators (HMA)** and **Magnetorheological Fluid (MRF) "Blood"** into a unified sensory-actuator network. By monitoring microsecond-level physical state changes within the structural fibers and fluid circuits, the system achieves "Structure-as-Sensing," enabling instantaneous closed-loop feedback without the latency of external processing.
+* **Sensing Dimensions**:
+* **Mass Topology & Distribution**: Utilizing current feedback from the helical muscles in a pre-tensioned state, the system calculates the precise weight, static mass distribution, and geometric Center of Gravity (CoG) of any external load or object.
+* **Impact Dynamics & Mapping**: Leveraging the non-Newtonian characteristics of the fluidic "blood," the system captures shockwave propagation vectors through the conduits. This allows for the precise mapping of impact magnitude, velocity, and pressure distribution across the structural surface.
+* **Morphological Recognition**: By correlating fluid pressure variances across multiple nodes, the system can reverse-engineer the 3D contour, volume, and material density of contacted objects through tactile logic alone.
+
+* **Autonomous Regulation**:
+Upon detection of external perturbations, the system executes real-time reconstruction of internal fluid distribution based on a **Kinetic CoG Algebraic Model**. By coordinating rapid fluid migration with antagonistic compensation from the HMA, the system corrects dynamic balance within milliseconds. This ensures absolute stability during high-dynamic maneuvers, such as high-speed reversals, mid-air reorientation, and erratic terrain traversal.
+
 ---
 
 ### 3. Typical Locomotion Logic: Antagonistic Pre-Stress Equilibrium
@@ -426,6 +438,18 @@ After the weight is removed, the system utilizes the captured potential energy, 
 
 **“神经系统：预编程反射神经”**
 通过预编程技术定义的物理肌肉，内置了多样化的条件反射逻辑。例如，在腿部行走过程中，通过特定的结构设计实现了**非线性行程比**与**自适应阻尼**。系统区分了用于瞬间爆发的**快反应肌肉群**与用于持久支撑的**慢反应肌肉群**。这种基于物理结构的预设，使得机器人无需复杂的中央计算即可产生极为自然的行走感，并在面对地形突变时展现出物理级的鲁棒性。
+
+#### 2.5 动态感知与本体觉知系统 (Dynamic Sensing & Proprioceptive System)**
+
+* **核心逻辑 (Logic)**：
+系统放弃了传统的离散压力传感器，转而利用**螺旋基质肌肉 (HMA)** 的电磁反馈与**磁流体血液 (MFB)** 的压力波浪耦合。通过感知执行器内部的微秒级物理量变化，系统能够实现“结构即感官”的实时闭环。
+* **感知维度 (Sensing Dimensions)**：
+* **质量拓扑 (Mass Topology)**：通过螺旋肌肉在预紧状态下的电流反馈差值，实时计算负载的重量、静态质量分布及几何重心。
+* **冲击动力学 (Impact Dynamics)**：利用磁流体血液的非牛顿流体特性，捕捉冲击波在管道内的传播矢量。系统不仅能得知冲击力度，还能精确映射冲击在载荷表面的分布云图。
+* **形态辨识 (Morphological Recognition)**：通过多节点流体压力的非线性关联，逆向推导接触物体的三维轮廓与硬度特性。
+
+* **自适应调节 (Autonomous Regulation)**：
+一旦感知到外部扰动，系统通过**重心代数模型**实时重构内部流体分布。利用磁流体血液的快速迁移和螺旋肌肉的拮抗补偿，在毫秒内完成动态重心的修正，确保在高动态机动（如高速折返、空中变向）中的绝对平衡。
 
 ---
 
