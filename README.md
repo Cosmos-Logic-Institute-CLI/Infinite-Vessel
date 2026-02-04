@@ -256,6 +256,46 @@ Eschewing fragile sensors, the system utilizes the **Dead-Center Logic** of link
 > The industry is trapped in the 'Hydraulic Cylinder' era—stiff, side-mounted, and inefficient. They treat gravity as an enemy to be fought with batteries. We treat gravity as a tide to be harnessed with logic.
 > When you realize that high-density braiding can simulate hydraulic support, and that the human bone is the perfect piston, you no longer need heavy iron. This framework is a weapon of logic—if you can see the force, you can own the energy."
 
+### **3.6 Adaptive Foot Engine: Gravity Thief**
+
+*Designed for Androids and Robotics; Human-Compatible.*
+
+**Core Module: Adaptive Kinetic Catapult (AKC)**
+
+* **Non-Linear Impact Harvesting**: Equipped with a short-travel, variable-stiffness elastic matrix. It absorbs ground reaction forces non-linearly to protect joints, while utilizing locking mechanisms (such as eccentric cams) to capture impact kinetics and continuous gravitational potential energy in stages.
+* **Total Potential Saturation (“100% Absorption”)**: Leverages gravity as a persistent energy field to perform "over-saturation charging" during the stance phase. This ensures that the elastic modulus reaches 100% of its structural storage limit regardless of gait variance.
+* **Non-Linear Release Dynamics**: Energy discharge is not a simple linear recoil; it follows a specific non-linear curve (Initial Buffer  Terminal Burst), mimicking biological muscle firing patterns to provide a smooth yet explosive propulsive sensation.
+* **Multi-Stage Modulation Knob**: A side-mounted mechanical knob allows real-time adjustment of the internal locking mechanism’s trigger threshold and pre-tension.
+* **Diagonal Vector Thrust**: Converts stored elastic potential into a forward-inclined diagonal vector. This thrust not only neutralizes the perception of weight but transforms the user’s mass into ammunition for forward momentum.
+
+**Minimalist Version (Engineering Breakdown)**
+
+**Core Structure**
+
+* **Power Plate**: Variable-section carbon fiber composite. Provides plantar support and high-frequency vibration filtering.
+* **Side-Mounted Eccentric Cams**: Core system components featuring honeycomb carbon composite structures. By altering the rotation angle to change the lever arm, they achieve stepless adjustment from "full softening" to "rigid lock."
+* **Recovery Link**: High-tension composite tether. Utilizes the zero-load state during the Swing Phase for automatic structural resetting.
+
+**Core Conversion Logic**
+
+* **Non-Linear Harvesting**: As the heel strikes and the plate depresses, the eccentric cam enters its lift profile. The cam contour design ensures low initial resistance (soft touch) with a steep terminal increase (energy locking), converting gravitational potential into the internal energy of the plate and cam assembly.
+* **Saturation Logic**: Utilizing the cam’s geometric "dead center," energy is locked in a compressed state. This ensures energy is not wasted before the body’s Center of Mass (CoG) shifts forward, holding it in stasis for the catapult trigger.
+* **Vectorized Release**: As the runner enters the toe-off phase and the Center of Pressure (CoP) shifts to the forefoot, the cam slides past the dead center. The locked energy is instantaneously released along the eccentric trajectory.
+* **Thrust Angle**: Preset at  $45^\circ - 60^\circ$(gear-dependent).
+* **Physical Effect**: Converts vertical downward pressure $F_z$ into forward propulsive force $F_y$, significantly reducing vertical oscillation amplitude.
+
+**User Interaction: Multi-Threshold Adjustment**
+The side-mounted knob directly controls the initial static offset of the cams.
+
+* **Lightweight/Jogging Mode**: Increases the initial lever arm; requires lower pressure to trigger the catapult.
+* **Competitive/Heavyweight Mode**: Decreases the initial lever arm; requires higher impact forces to trigger, offering an extremely high performance ceiling.
+
+**Projected Performance Specs**
+
+* **Energy Return**: Theoretical value $> 95\%$ (Limited by mechanical friction, but significantly higher than material-based rebound in terms of directionality).
+* **Structural Weight**: AKC module weight targeted at **40g - 60g** per unit.
+* **Effective Lifespan**: Mechanical architecture supports **800,000 cycles** of impact without performance degradation.
+
 ---
 
 ### 4. Five-Fold Integrated Cycle System
@@ -637,6 +677,45 @@ $$E_{净收益} = (W_{下落做功} - W_{上升耗功}) - E_{控制能耗} - E_{
 * **非线性弹性**：通过编织结构（如扭转绳索执行器）实现模仿生物肌肉的自稳定与功率放大。
 * **结构液压化**：将纤维编织成极高密度的实心或气密空心圆柱，使其在受力时产生体积排斥效应，形成**“流体包络”**。
 * **骨肉耦合**：以人骨为“固定活塞”，以润滑的编织层为“动态缸体”，在微观尺度上实现液压支撑，将巨大载荷均匀分布，彻底解决磨腿问题。
+
+### 3.6 自适应脚部引擎：重力窃贼
+*专为仿生人与机器人设计，人类也可使用。*
+
+**核心模块：自适应动力弹射器 (AKC)**
+* **非线性冲击收割**：配备短行程、变刚度弹性基质。非线性吸收落地冲击力，在保护关节的同时，通过锁紧装置比如偏心凸轮等可分阶段将冲击动能与持续输入的重力势能捕获。
+* **全势能饱和逻辑（“100% 吸收”）**：利用重力作为持续能量场的特性，在支撑相进行“过饱和充能”。这确保了无论步幅大小，弹性模量都能达到 100% 的设计储能上限。
+* **非线性释放动力学**：能量释放并非简单的线性回弹，而是遵循特定的非线性曲线（起步缓冲-末端爆发），模拟生物肌肉的作功特征，提供既平顺又强劲的推进感。
+* **多档位调节旋钮**：侧置机械旋钮可实时调节内部锁紧机构的触发阈值与预紧力。
+* **斜向上定向矢量释放**：将储存的弹性势能转化为前倾的斜向上矢量。该推力不仅中和了重力感官，更将每一位使用者的体重转化为了前进的弹药。
+
+**极简版本（工程拆解）**
+
+**核心结构**
+* **载荷传导板 (Power Plate)**：可采用变截面碳纤维复合材料，兼具足底支撑与初步高频滤波功能。
+* **双侧偏心凸轮 (Side-Mounted Cams)**：可采用碳纤维复合材料制作为蜂窝状结构，为本系统的核心，通过旋转角度改变力臂，实现从“完全软化”到“刚性锁定”的无级调节。
+* **矢量拉回机构 (Recovery Link)**：高张力复合拉索，在摆动相（Swing Phase）利用零负载状态自动复位。
+
+**核心转换逻辑**
+非线性冲击收割 (Non-linear Harvesting)
+* 当脚后跟落地，硬板下压，偏心凸轮进入升程段。通过凸轮型线设计，实现初期阻力小（柔和触感）、末端阻力陡增（锁定蓄能），将重力势能转化为碳板与凸轮机构的内能。
+全势能饱和锁定 (Saturation Logic)
+* 利用凸轮的几何死点，将能量锁定在压缩状态。这确保了能量不会在人体质心尚未前移时白白流失，而是静候弹射时机。
+斜向上定向矢量释放 (Vectorized Release)
+*当跑者进入蹬伸阶段，压力中心移向脚尖，凸轮滑过死点，锁定的能量瞬间沿偏心轨迹释放。
+* **推力角度**：预设为 $45^\circ - 60^\circ$（取决于档位）。
+* **物理效果**：将垂直下压的 $F_z$ 转化为向前的推进力 $F_y$，显著降低垂直振幅。
+
+**用户交互：多档位阈值调节**
+侧置调节旋钮直接控制凸轮的初始静态偏角。
+* **轻量化/慢跑模式**：增大初始力臂，较低压力即可触发弹射。
+* **竞技/大体重模式**：缩小初始力臂，需要更高冲击力触发，上限极高。
+
+**性能指标预测 (Projected Specs)**
+* **能量返还率 (Energy Return)**：理论值 $> 95\%$（受机械损耗限制，但远高于材料回弹的定向性）。
+* **结构重量**：AKC 模块预计增重控制在 **40g - 60g**（单只）。
+* **有效寿命**：机械结构支持 **800,000 次**循环冲击而不发生性能衰减。
+
+---
 
 **四、 控制逻辑：几何死点与分段解锁**
 
