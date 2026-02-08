@@ -442,6 +442,33 @@ The side-mounted knob directly controls the initial static offset of the cams.
 **2. Core Competency: Mechanical Zero-Latency**
 * Unlike electronic assistive devices, this system is entirely based on **gravitational field response**. Your CoG is the sensor; the eccentric cam is the actuator. This "zero-latency" feedback is the most intuitive mode for the human cerebellum, eliminating any "unnatural sensation" or "lag."
 
+### 3.8 ISA "Quasi-Conservative Mechanics" Architecture (Engineering Verification Version)
+
+This architecture achieves a high-efficiency energy recovery and conversion cycle through the **topological coupling** of **high-strength, short-stroke elastic elements** and **asymmetric transmission links**. The core innovation lies in the realization of a **full-path closed-loop energy circuit**. The system does not merely treat landing impacts and gravitational work—traditionally viewed as "loss sources"—as dynamic inputs; it leverages a high-efficiency conduction chain to achieve a high degree of self-circulation for its own driving energy.
+
+Typical Examples:
+1. Structural and Static Maintenance
+* **Antagonistic Pre-tensioning:** Antagonistic drive pairs are composed of double-helix, high-strength elastic fibers. Pre-stress is adjusted via a lead screw motor, utilizing **geometric phase differences** to achieve structural self-equilibrium.
+* **Zero-Power Static Locking:** In static conditions, the **self-locking characteristics** of the lead screw mechanism, combined with physical stroke limits, completely eliminate the current required for torque maintenance. This achieves a true "zero-power" state for static holding.
+
+2. Dynamic Motion and Energy Transduction
+* **Potential-Driven Burst:** Upon motion trigger, the system instantaneously releases the elastic potential energy stored in the high-strength fibers by rapidly unloading the limit locks. Due to the **"short-stroke, high-modulus"** nature of the fibers, the energy conversion pulse is powerful with minimal conduction latency.
+* **Electronic Damping Control:** Deceleration does not rely on physical friction. Instead, the motor enters **Four-Quadrant Operation (Generator Mode)**. It utilizes adjustable **Back Electromotive Force (Back EMF)** to simulate dynamic gear ratios, ensuring smooth deceleration.
+* **Active Potential Interception:** When the end-effector (e.g., the foot) encounters landing impacts or gravitational work, energy is directed through asymmetric conduction paths to act upon the energy-storage fibers or the drive motor, enabling real-time recovery of kinetic energy into mechanical potential or electrical energy.
+
+3. Closed-Loop Energy Logic: From "Buffer" to "Rectification"
+* **Energy Priming (Tensioning Stage):** The lead screw motor drives the high-strength fibers, converting electrical energy into **high-density mechanical potential energy**. The "short-stroke" design ensures the motor operates within its peak efficiency range, suppressing Joule heat loss to a minimum.
+* **Potential Release (Work Stage):** At the moment of lock release, mechanical energy is directly converted into kinetic energy. This process requires no electrical power maintenance, achieving **"offline energy transmission."**
+
+ **Dual-Source Recovery:**
+* **Self-Energy Feedback:** At the end of a motion cycle, the motor uses regenerative braking to convert the released elastic potential energy (not consumed by the load) back into electrical charge.
+* **Ambient Energy Capture:** Simultaneously, external work from impacts (e.g., foot strike) and gravitational potential energy are "superimposed" onto the motor's recovery terminal through the same mechanical path.
+
+4. Technical Advantages
+* **Impedance Matching Optimization:** The "short-stroke" design not only minimizes pre-tensioning time but also enhances energy coupling efficiency during high-speed motion, avoiding phase lags and oscillatory losses typical of long-stroke elasticity.
+* **Stroke Optimization:** An "ideal" stroke ensures that the motor rotor is positioned at the optimal torque angle precisely when the energy surge arrives, pushing recovery efficiency toward its theoretical limit.
+* **Energy Management:** The system no longer simply "resists" environmental gravity but treats it as an **external excitation source**. Through the "rectification" effect of the structure, chaotic mechanical shocks are transformed into storable, high-quality electrical or mechanical potential energy.
+
 ---
 
 ### The ISA Society: Negentropy Civilization and Planetary Swarms
@@ -1059,7 +1086,35 @@ $$E_{净收益} = (W_{下落做功} - W_{上升耗功}) - E_{控制能耗} - E_{
 **2. 核心竞争力：机械级零延迟 (Mechanical Latency)**
 * 不同于任何电子辅助设备，本系统完全基于**重力场响应**。传感器是你的重心，执行器是偏心轮。这种“零延迟”的反馈是人类小脑最容易接受的模式，不会产生任何“异物感”或“拖拽感”。
 
+### 3.8 ISA “准保守力学”架构 (工程验证版)
+
+本架构通过**高强度短行程弹性元件**与**非对称传动链路**的拓扑耦合，实现了一套具备高能量回收与转换率的循环系统。本架构的核心在于实现了**全路径能量闭环**。系统不仅将传统机器人视作“损耗源”的落地冲击与重力等做功，转化为系统的动态输入，更通过高效率的传导链，实现了自身驱动能量的高度自循环。
+
+典型示例：
+1. 结构与静态维持
+* **拮抗式预张紧：** 采用双螺旋高强度弹性纤维构成拮抗驱动对，通过丝杆电机调节预应力。利用**几何相位差**实现结构自平衡。
+* **零功耗静态锁止：** 静态工况下，利用丝杆机构的**自锁特性（Self-locking）**结合物理行程限位，彻底切断电机维持扭矩的电流需求，实现静态“零功耗”保持。
+
+2. 运动与能量动态流转
+* **势能驱动爆发：** 运动触发瞬间，系统通过快速卸载限位锁定，将存储于高强度纤维中的弹性势能瞬时释放。由于纤维具备“短行程、高模量”特性，能量转换脉冲强且传导迟滞极低。
+* **电子阻尼控制（Electronic Damping）：** 运动减速阶段不依赖物理摩擦，而是通过电机进入**四象限运行模式（Generator Mode）**。利用可调的**反向电动势（Back EMF）**模拟动态减速比，实现平稳减速。
+* **主动势能拦截：** 当末端执行器（如足端）受到落地冲击或重力做功时，能量通过非对称传导路径直接作用于储能纤维或驱动电机，实现动能到机械势能或电能的实时回收。
+
+3. 能量闭环逻辑：从“暂存”到“整流”
+* **上紧阶段（Energy Priming）：** 丝杆电机驱动高强度纤维。此时消耗的电能转化为**高密度机械势能**。由于采用了“短行程”设计，电机处于高效工作区间，焦耳热损耗被压制到最低。
+* **做功阶段（Potential Release）：** 释放锁定的瞬间，机械能直接转化为动能。此过程无需电力维持，实现了**“能量离线传输”**。
+
+ **双重回收阶段（Dual-Source Recovery）：**
+* **自身能量回馈：** 运动末端，电机通过再生制动，将释放出的、未被负载消耗的弹性势能重新转化为电荷。
+* **环境能流捕获：** 同时，外界冲击功（如落地撞击）和重力势能，通过相同的机械路径被“叠加”到电机的回收端。
+
+4. 技术优势
+* **阻抗匹配优化：** “短行程”设计不仅缩短了预张紧时间，更提升了系统在高速运动下的能量耦合效率，避免了长行程弹性带来的相位延迟与震荡损耗。
+* **行程优化：** “合适”的行程意味着电机转子恰好在能量涌浪到达时处于最佳力矩角度，从而将回收效率推向理论极限。
+* **能量管理：** 系统不再单纯对抗环境重力，而是将其视作**外部激励源**。通过结构的“整流”作用，将杂乱的机械冲击转化为可存储的高质量电能或弹性势能。
+
 ---
+
 ### ISA 社会：负熵文明与行星级蜂群
 
 当劳动力不再消耗能源，反而生产能源时，人类社会的经济基础、城市形态乃至文明的终极目标将发生根本性跃迁。
