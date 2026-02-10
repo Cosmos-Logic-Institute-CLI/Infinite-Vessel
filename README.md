@@ -145,6 +145,22 @@ In the ISA architecture, energy storage is no longer a detached chemical battery
 > 
 > **Conclusion:** Subtraction at the physical layer, multiplication at the logical layer. Building an ultimate computational framework with high real-time performance, high determinism, and ultra-high redundancy.
 
+AGI Paradigm Shift:
+
+### **The LiE Architecture (Lookup-is-Execution)**
+
+**Evolution of Engram: Dynamic Functional Tables and Self-Correcting Logic Gates**
+
+**Core Concept:** The integration of **PIE (Physical Instinct Engine)** and **Engram** is now upgraded with **Dynamic Functional Mapping**. We no longer just store data; we store **Executable Logic Cells**. By transforming the Engram lookup region into a functionalized table with real-time rewrite and backup capabilities, we achieve a self-evolving AGI substrate.
+
+**Key Technical Enhancements:**
+
+1. **Functionalized Lookup Tables (FLT):** Simple queries and repetitive physical tasks no longer trigger neural inference. They hit the **Logic Gate Gates** within the Engram space, which execute pre-set functions to output results directly. We implement **"Formula-as-a-Function" (FaaF)**, where physical laws (e.g., Kinematics, Thermodynamics) are hard-coded as executable cells. This ensures the Engram region provides **mathematical precision** rather than just semantic similarity. This is **"Zero-Inference Computation."**
+2. **Dynamic Evolutionary Loop (Rewrite & Rollback):** The system continuously optimizes its own "Instinct Tables." If a new logic gate improves efficiency or accuracy, it is solidified; if it fails, the system triggers an **Instant Rollback** to a stable backup. This mimics biological mutation and natural selection.
+3. **Multi-Tier Truth-Value Cascades:** Large-category gates perform high-level filtering (e.g., Physical vs. Linguistic), while medium and small-category gates execute nested mathematical/physical formulas. This tiered approach reduces complex reasoning to a series of high-speed, deterministic logic feedbacks.
+
+**Result:** This architecture enables the AI to bypass the "Black Box" limitation. It creates an **"Evolutionary Spine"** for the AI, allowing it to achieve 100% deterministic accuracy in physical/mathematical domains while collapsing computational costs to the physical minimum.
+
 ---
 
 ### **Neural Network: Predictive Dynamic Reflex Nerve (ISA)**
@@ -802,7 +818,7 @@ ISA 的空腔骨骼内壁采用高比表面积的碳纳米管或多孔石墨烯�
 
 ---
 
-## 感知的范式革命——物理本能引擎 (PIE)
+### 感知的范式革命——物理本能引擎 (PIE)
 
 > **方法论：物理抽象化逻辑本能范式 (PALP)**
 > **核心定义：** 本方法论旨在建立一种底层的计算本能，通过将客观物理规律（位移、动量、通量等）抽象化为系统的**逻辑本能算子**。其本质是利用物理世界的确定性，从根源上消除算法层的冗余负荷，实现复杂算法的结构重组。
@@ -814,6 +830,22 @@ ISA 的空腔骨骼内壁采用高比表面积的碳纳米管或多孔石墨烯�
 > (注：其中 $\epsilon$ 代表极低频的语义校验开销)
 > 
 > **结语：** 物理层做减法，逻辑层做乘法。构建高实时、高确定性、超高冗余量的终极计算框架。
+
+AGI 范式转移：
+
+### **LiE 架构（查表即执行）**
+
+**Engram 的进化：动态函数化表格与自修复逻辑门**
+
+**核心逻辑：** **PIE（物理本能引擎）** 与 **Engram** 的结合现在升级为 **“动态函数化映射”**。我们不仅存储数据，更存储**可执行的逻辑单元**。通过将 Engram 匹配区改造为具备实时改写、函数化调用与备份回滚功能的动态表格，我们构建了一个可自进化的 AGI 底座。
+
+**技术亮点：**
+
+1. **函数化查表 (FLT)：** 基础逻辑与重复性物理任务不再触发神经元推理，而是直接命中 Engram 空间内的**函数算子**。我们实现了**“公式即函数（FaaF）”**。将物理定律（如运动学、热力学公式）直接固化为可执行的算子。这确保了 Engram 匹配区输出的是**具有数学精度的物理直值**，而非模糊的语义关联。这种“零推理计算”让系统在处理确定性问题时实现算力归零。
+2. **动态演化闭环（改写与回滚）：** 系统具备实时修改“本能表”的能力。新逻辑门在经过实战验证后会被固化；若出现偏差，系统将执行**一键回滚**恢复至稳定备份。这为 AI 提供了类似生物进化的“试错自由”。
+3. **多重逻辑门分形叠加：** 通过大分类（领域拦截）到中、小分类（具体公式执行）的层级嵌套，将复杂的推理任务拆解为极速的逻辑门反馈，确保物理与数学输出的绝对真值化。
+
+**结语：** 这套体系赋予了 AI **“数字肌肉记忆”**。它不再是单纯地“思考”宇宙，而是在“调用”宇宙。这种查表即执行（LiE）的架构，标志着 AI 从概率推演迈向了真正的逻辑本能。
 
 ---
 
